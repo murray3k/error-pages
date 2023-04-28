@@ -665,15 +665,15 @@ Object.defineProperty(window, 'l10n', {
                 es: '¿Que puedo hacer?',
                 zh: '我能做什么？',
             },
-            'Please try again in a few minutes': {
-                fr: 'Veuillez réessayer dans quelques minutes',
-                ru: 'Пожалуйста, попробуйте повторить запрос ещё раз чуть позже',
-                uk: 'Будь ласка, спробуйте повторити запит ще раз трохи пізніше',
-                pt: 'Por favor, tente novamente em alguns minutos',
-                nl: 'Probeer het alstublieft opnieuw over een paar minuten',
-                de: 'Bitte versuchen Sie es in ein paar Minuten erneut',
-                es: 'Por favor, intente nuevamente en unos minutos',
-                zh: '请在几分钟后重试',
+            'Please try again in a few minutes.': {
+                fr: 'Veuillez réessayer dans quelques minutes.',
+                ru: 'Пожалуйста, попробуйте повторить запрос ещё раз чуть позже.',
+                uk: 'Будь ласка, спробуйте повторити запит ще раз трохи пізніше.',
+                pt: 'Por favor, tente novamente em alguns minutos.',
+                nl: 'Probeer het alstublieft opnieuw over een paar minuten.',
+                de: 'Bitte versuchen Sie es in ein paar Minuten erneut.',
+                es: 'Por favor, intente nuevamente en unos minutos.',
+                zh: '请在几分钟后重试.',
             },
             'Working': {
                 fr: 'Opérationnel',
@@ -725,6 +725,17 @@ Object.defineProperty(window, 'l10n', {
                 es: 'Verifique de nuevo la URL y vuelva a probar',
                 zh: '请再次检查URL并重试',
             },
+            'If the problem persists, please contact the support:': {
+                fr: 'Si le problème persiste, veuillez contacter le support :',
+                ru: 'Если проблема не устраняется, пожалуйста, обратитесь в службу поддержки:',
+                uk: 'Якщо проблема не вирішується, будь ласка, зверніться до служби підтримки:',
+                pt: 'Se o problema persistir, entre em contato com o suporte:',
+                nl: 'Als het probleem aanhoudt, neem dan contact op met de ondersteuning:',
+                de: 'Wenn das Problem weiterhin besteht, wenden Sie sich bitte an den Support:',
+                es: 'Si el problema persiste, póngase en contacto con el soporte:',
+                zh: '如果问题仍然存在，请联系支持：',
+            },
+
         };
 
         /**
